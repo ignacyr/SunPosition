@@ -1,6 +1,6 @@
 # SunPosition
 
-Requires SolTrack.h library.
+Testing SolTrack.h C library for tracking position of the sun.
 
 # Sample output
 
