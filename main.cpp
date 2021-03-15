@@ -50,7 +50,7 @@ int main()
         SolTrack(timeNow, loc, &pos, useDegrees, useNorthEqualsZero, computeRefrEquatorial, computeDistance);
 
         cout << "Postion of the Sun: \n";
-        cout << "Altitude: " << pos.altitudeRefract << "°  Azimuth: " << pos.azimuthRefract << "°.\n\n";
+        cout << "Altitude: " << pos.altitudeRefract << "°  Azimuth: " << pos.azimuthRefract << "°\n\n";
         
         RiseSet riseSet;
         
