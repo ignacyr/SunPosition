@@ -16,6 +16,7 @@ Postion of the Sun:
 
 Altitude: 36.2745°  Azimuth: 167.661°
 
+
 Rise time: 6:05  Rise azimuth: 92.2361°
 
 Transit time: 12:00  Transit altitude: 36.9347°
