@@ -6,7 +6,7 @@ Testing SolTrack.h C library for tracking position of the sun.
 
 Time:
 
-15.3.2021  11.20.54
+15.3.2021  11:20:54
 
 My location:
 
