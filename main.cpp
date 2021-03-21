@@ -30,7 +30,7 @@ int main()
             (double)ltm->tm_sec 
         };
         cout << "Time: \n";  
-        cout << timeNow.day << '.' << timeNow.month << '.' << timeNow.year << "  " << timeNow.hour + 1 << '.' << timeNow.minute << '.' << timeNow.second << "\n\n";
+        cout << timeNow.day << '.' << timeNow.month << '.' << timeNow.year << "  " << timeNow.hour + 1 << ':' << timeNow.minute << ':' << timeNow.second << "\n\n";
 
         Location loc; //structure from SolTrack library
         loc.longitude = 17.062421403208617;
