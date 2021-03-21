@@ -4,17 +4,21 @@ Testing SolTrack.h C library for tracking position of the sun.
 
 # Sample output
 
-Time: 
-14.3.2021  23.2.9
+Time:
+
+15.3.2021  11.20.54
 
 My location:
+
 Longitude: 17.0624°  Latitude: 51.1102°
 
 Postion of the Sun: 
-Altitude: -39.5483°  Azimuth: 340.87°.
 
-Rise time: 6:07  Rise azimuth: 92.8642°
+Altitude: 36.2745°  Azimuth: 167.661°
 
-Transit time: 12:00  Transit altitude: 36.5398°
 
-Set time: 17:54  Set azimuth: 267.444°
+Rise time: 6:05  Rise azimuth: 92.2361°
+
+Transit time: 12:00  Transit altitude: 36.9347°
+
+Set time: 17:56  Set azimuth: 268.074°
